@@ -1,5 +1,6 @@
 jdk:
   - openjdk17
+  - openjdk18
 #before_install:
 #  - ./custom_setup.sh
 #install:
